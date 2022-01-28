@@ -42,6 +42,7 @@
 .header__subtitle {
     position: absolute;
     max-width: 388px;
+    margin: 0;
     bottom: 30px;
     left: 64px;
     line-height: 25px;
