@@ -2,4 +2,9 @@
     text-decoration: none;
     color: #2f80ed;
     z-index: 2;
+    transition: all 0.5s ease-in;
+}
+
+.header__link:hover {
+    opacity: 0.5;
 }
