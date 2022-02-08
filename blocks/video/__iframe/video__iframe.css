@@ -1,0 +1,16 @@
+.video__iframe {
+    list-style-type: none;
+    width: 515px;
+    height: 316px;
+    margin: 0 auto;
+    -webkit-transform: translate(0, 60px);
+        -ms-transform: translate(0, 60px);
+            transform: translate(0, 60px);
+    z-index: 1;
+    padding-right: 20px;
+    border: 0px;
+}
+
+.video__iframe:last-of-type {
+    padding-right: 0px;
+}

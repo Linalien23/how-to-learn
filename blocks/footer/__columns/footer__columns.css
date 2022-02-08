@@ -1,0 +1,13 @@
+.footer__columns {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+    -ms-flex-line-pack: center;
+        align-content: center;
+    position: relative;
+    width: 90%;
+    margin: 60px auto 40px;
+}
